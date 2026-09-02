@@ -1,10 +1,10 @@
 Hi 👋 My name is Ahmed Ejaz Baig 😊
 ================================
 
-Software Enginner 
+Full Stack-Software Enginner 
 -----------------
 
-Solution-oriented and problem-solving Flutter Developer with 3 years of experience in building and maintaining Full Stack Mobile and Web applications using Flutter, Firebase, Dart, and React JS. Highly skilled in developing responsive and dynamic interfaces with Tailwind CSS, adhering to Agile methodologies, and applying design patterns and architectural principles to create scalable and maintainable applications. Proficient in communication, collaboration, and technical documentation, with a strong motivation to continuously learn and enhance technical skills.
+Full-Stack Engineer | Built & Shipped 30+ Production Apps | Flutter • React Native • React.js | TypeScript • JavaScript • Dart | Scalable Web & Mobile Products | Performance & Design Systems
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ejazbaig700@gmail.com](mailto:ejazbaig700@gmail.com)
